@@ -1,0 +1,1 @@
+# Inventory-or-stock-manager
